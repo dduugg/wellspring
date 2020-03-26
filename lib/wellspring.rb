@@ -1,5 +1,6 @@
 # typed: strong
 # frozen_string_literal: true
+
 require 'wellspring/version'
 
 module Wellspring
