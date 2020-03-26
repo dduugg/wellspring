@@ -1,4 +1,4 @@
-# RubyTemplate
+# Wellspring
 [![Build Status](https://travis-ci.com/dduugg/wellspring.svg?branch=master)](https://travis-ci.com/dduugg/wellspring)
 [![codecov](https://codecov.io/gh/dduugg/wellspring/branch/master/graph/badge.svg)](https://codecov.io/gh/dduugg/wellspring)
 

@@ -2,7 +2,7 @@
 # frozen_string_literal: true
 require 'wellspring/version'
 
-module RubyTemplate
+module Wellspring
   class Error < StandardError; end
   # Your code goes here...
 end

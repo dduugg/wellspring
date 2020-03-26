@@ -4,7 +4,7 @@ require_relative 'lib/wellspring/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'wellspring'
-  spec.version       = RubyTemplate::VERSION
+  spec.version       = Wellspring::VERSION
   spec.authors       = ['Douglas Eichelberger']
   spec.email         = ['dug@testingin.productions']
 
