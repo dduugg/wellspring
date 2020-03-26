@@ -1,16 +1,16 @@
 # typed: strict
 # frozen_string_literal: true
-require_relative 'lib/ruby_template/version'
+require_relative 'lib/wellspring/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'ruby_template'
+  spec.name          = 'wellspring'
   spec.version       = RubyTemplate::VERSION
   spec.authors       = ['Douglas Eichelberger']
   spec.email         = ['dug@testingin.productions']
 
   spec.summary       = 'A template for creating ruby projects'
   spec.description   = 'A template for creating ruby projects'
-  spec.homepage      = 'https://github.com/dduugg/ruby_template'
+  spec.homepage      = 'https://github.com/dduugg/wellspring'
   spec.required_ruby_version = Gem::Requirement.new('>= 2.4.0')
 
   spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com'"

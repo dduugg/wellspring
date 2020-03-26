@@ -1,8 +1,8 @@
 # RubyTemplate
-[![Build Status](https://travis-ci.com/dduugg/ruby_template.svg?branch=master)](https://travis-ci.com/dduugg/ruby_template)
-[![codecov](https://codecov.io/gh/dduugg/ruby_template/branch/master/graph/badge.svg)](https://codecov.io/gh/dduugg/ruby_template)
+[![Build Status](https://travis-ci.com/dduugg/wellspring.svg?branch=master)](https://travis-ci.com/dduugg/wellspring)
+[![codecov](https://codecov.io/gh/dduugg/wellspring/branch/master/graph/badge.svg)](https://codecov.io/gh/dduugg/wellspring)
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ruby_template`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/wellspring`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
 
@@ -11,7 +11,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'ruby_template'
+gem 'wellspring'
 ```
 
 And then execute:
@@ -20,7 +20,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install ruby_template
+    $ gem install wellspring
 
 ## Usage
 
@@ -34,5 +34,5 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ruby_template.
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/wellspring.
 

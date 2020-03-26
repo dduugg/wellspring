@@ -1,6 +1,6 @@
 # typed: strong
 # frozen_string_literal: true
-require 'ruby_template/version'
+require 'wellspring/version'
 
 module RubyTemplate
   class Error < StandardError; end

@@ -1,7 +1,7 @@
 # typed: strict
 # frozen_string_literal: true
 require 'bundler/setup'
-require 'ruby_template'
+require 'wellspring'
 
 if ENV['CI'] == 'true'
   require 'simplecov'
